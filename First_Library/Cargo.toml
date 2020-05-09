@@ -7,7 +7,7 @@ repository = "https://github.com/LionoMaker/First-Library"
 homepage = "https://github.com/LionoMaker/First-Library"
 license = "MIT/Apache-2.0"
 readme = "README.md"
-description = "First Welcome Library "
+description = "First_Library"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
